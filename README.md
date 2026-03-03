@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Zal 👋
 
-<!--
-**zalhasmi2697-web/zalhasmi2697-web** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aspiring Cloud Engineer currently building hands-on AWS projects.
 
-Here are some ideas to get you started:
+## 🚀 Current Focus
+- AWS Cloud Practitioner
+- Serverless architectures
+- Terraform Infrastructure as Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Projects
+- Static Website on S3 + CloudFront
+- Serverless Contact Form (Lambda + API Gateway)
+
+## 📜 Certifications
+- AWS Certified Cloud Practitioner (In Progress)
+
+## 📫 Connect
+- LinkedIn: https://www.linkedin.com/in/mohd-zal-hasmi-1b935b203
